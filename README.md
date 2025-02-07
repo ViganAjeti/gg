@@ -98,7 +98,7 @@ header {
     }
 
     .product {
-        width: 45%; /* Make each product take more width on small screens */
+        width: 25%; /* Make each product take more width on small screens */
         margin: 10px 0; /* Space between products */
     }
 
